@@ -1,2 +1,2 @@
-git is a version control system.
-this txt is for git learning.
+Git is a distributed version control system.
+Git is free software.
